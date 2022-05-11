@@ -1,9 +1,25 @@
 {
   "name": "transform-character",
-  "version": "1.0.0",
-  "description": "简体字繁体字互相转换",
+  "version": "0.0.1",
+  "description": "简体字繁体字互相转换 transform transfer character transform-character",
   "main": "index.js",
-  "repository": "https://github.com/cookie-zhang/transform-character.git",
+  "scripts": {
+    "test": "node ./"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookie-zhang/transform-character.git"
+  },
+  "keywords": [
+    "transform-character",
+    "character",
+    "transform"
+  ],
   "author": "zhangjianfei",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cookie-zhang/transform-character/issues"
+  },
+  "homepage": "https://github.com/cookie-zhang/transform-character/blob/main/README.md"
 }
