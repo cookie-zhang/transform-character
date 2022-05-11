@@ -1,0 +1,9 @@
+{
+  "name": "transform-character",
+  "version": "1.0.0",
+  "description": "简体字繁体字互相转换",
+  "main": "index.js",
+  "repository": "https://github.com/cookie-zhang/transform-character.git",
+  "author": "zhangjianfei",
+  "license": "MIT"
+}
